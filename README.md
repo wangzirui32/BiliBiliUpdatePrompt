@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/static/v1?label=Python&message=3.9.5&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=red"/>
 </p>
-这个项目可以帮助你监控UP主的更新情况，可以下载`out\app.dist\app.zip`，运行其中的`app.exe`，也可以下载源码并用`pip`安装依赖包，运行app.py。
-在`config.json`中可以自定义配置，内容如下：
+这个项目可以帮助你监控UP主的更新情况，可以下载out\app.dist\app.zip，运行其中的app.exe，也可以下载源码并用pip安装依赖包，运行app.py。
+在config.json中可以自定义配置，内容如下：
 
 ```json
 {
